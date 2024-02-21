@@ -10,7 +10,7 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = true;                //auto tying by default off.
-global.autoRecord = truee;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
+global.location = "Nairobi,Kenya";
 global.reactmoji = "🚮";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
