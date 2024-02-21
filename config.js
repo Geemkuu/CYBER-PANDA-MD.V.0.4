@@ -37,7 +37,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.openAiAPI = "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
+global.openAiAPI = "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";
 
 
 //
